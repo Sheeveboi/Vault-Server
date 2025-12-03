@@ -25,14 +25,14 @@ to the main storage PC via Ethernet.
 ## Working Model
                                            
 ```    ______________________				        __________________
-      |			     |				       |                  | 
-      |	     Main Server     |				       |   Raspberry PI   |
+      |                      |                                 |                  | 
+      |	     Main Server     |                                 |   Raspberry PI   |
       | ____________________ |        Ethernet connection      | ________________ |
       || PostgreSQL server  <----------------------------------->    REST API    ||
-      ||_________-|-________||     	   ________            ||_______-^-______||
+      ||_________-|-________||             ________            ||_______-^-______||
       |__________-|-_________|  Response  |        |  Request  |________-|-_______|
                   +-----------------------> Client ----------------------+
-      					  |________|
+                                          |________|
 ```
 
 ### Ideal time for deployment: 2 days
