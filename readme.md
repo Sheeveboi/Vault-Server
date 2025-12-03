@@ -79,13 +79,13 @@ to the main storage PC via Ethernet.
 
 
 ### Ideal time for deployment: 2 days
-1 day for infrastructure deployment, and 1 day for bug testing.
+- 1 day for infrastructure deployment, and 1 day for bug testing.
 
 ### Resources 
-Raspberry PI 3
-Ethernet Cable
-USB Type C Cable
-Pentium Quad Core CPU
-GTX 650ti GPU
-General purpose modem for broader internet connection
+- Raspberry PI 3
+- Ethernet Cable
+- USB Type C Cable
+- Pentium Quad Core CPU
+- GTX 650ti GPU
+- General purpose modem for broader internet connection
 
